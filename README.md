@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on my Python skills by creating personal projects every day (Day 33/100)
+### 🔭 I’m currently working on my improving Python skills further by creating a personal project every day (37/100 Projects so far!)
 ### 🌱 I’m currently learning how to organize my GitHub repositories and create my portfolio
 ### 📫 How to reach me: Connect with me https://www.linkedin.com/in/russelsofia/
