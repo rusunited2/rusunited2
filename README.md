@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on my improving:
-###    1. SystemVerilog
-###    2. UVM
+### 🔭 I’m currently working on my learning and improving:
+###    1. SystemVerilog Fundamentals and Projects
+###    2. UVM Fundamentals and Projects
 ###    3. Python skills further by creating a personal project every day (37/100 Projects so far!)
 ### 🌱 I’m currently learning how to organize my GitHub repositories and create my portfolio
 ### 📫 How to reach me: Connect with me https://www.linkedin.com/in/russelsofia/
