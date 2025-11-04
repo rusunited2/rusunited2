@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on my improving 
+### 🔭 I’m currently working on my improving:
 ###    1. SystemVerilog
 ###    2. UVM
 ###    3. Python skills further by creating a personal project every day (37/100 Projects so far!)
