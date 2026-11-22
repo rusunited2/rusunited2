@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on my learning and improving:
 ###    1. SystemVerilog Fundamentals and AI Accelerator project
 ###    2. UVM Fundamentals and Projects
-###    3. Python skills further by creating a personal project every day (37/100 Projects so far!)
+###    3. Python skills further by creating a personal projects (37/100 Projects so far!)
 ### 🌱 I’m currently learning new RTL design and Verification concepts to enhance my portfolio
 ### 📫 How to reach me: Connect with me https://www.linkedin.com/in/russelsofia/
